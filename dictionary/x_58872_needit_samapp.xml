@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Samapp" max_length="40" name="x_58872_needit_samapp" type="collection">
+        <element label="new field 1" max_length="40" name="new_field_1" type="integer"/>
+        <element label="NEW FILED 2" max_length="40" name="new_filed_2" type="integer"/>
+    </element>
+</database>
