@@ -23,6 +23,44 @@
             <dependent_value/>
             <element>u_choice_5</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_samapp</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-27 05:32:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ec9f027db213300e54864d74896193d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-27 08:53:03</sys_updated_on>
+            <value>your department choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_5</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Other 2</label>
+            <language>en</language>
+            <name>x_58872_needit_samapp</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-27 05:32:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6c9f027db213300e54864d74896193f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-27 08:52:22</sys_updated_on>
+            <value>your department choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_5</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
@@ -119,38 +157,19 @@
             <element>u_choice_5</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Your Department Choice 1</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_samapp</name>
             <sequence>6</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-27 05:32:41</sys_created_on>
+            <sys_created_on>2019-05-27 08:55:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1ec9f027db213300e54864d74896193d</sys_id>
+            <sys_id>3f18ad23dba13300e54864d7489619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-27 05:32:41</sys_updated_on>
-            <value>your department choice 1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_choice_5</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Your Department Choice 2</label>
-            <language>en</language>
-            <name>x_58872_needit_samapp</name>
-            <sequence>7</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-27 05:32:41</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>d6c9f027db213300e54864d74896193f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-27 05:32:41</sys_updated_on>
-            <value>your department choice 2</value>
+            <sys_updated_on>2019-05-27 08:55:08</sys_updated_on>
+            <value>other</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_choice_5</element>
